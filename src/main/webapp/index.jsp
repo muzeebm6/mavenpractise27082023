@@ -6,5 +6,3 @@
 <a href="https://ashokitech.com/online-training-schedules">Click Here To See Training Schedules</a> 
 </body>
 </html>
-
-https://stackoverflow.com/questions/26313902/maven-error-perhaps-you-are-running-on-a-jre-rather-than-a-jdk
